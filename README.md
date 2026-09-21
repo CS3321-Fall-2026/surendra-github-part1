@@ -1,2 +1,9 @@
-# surendra-github-part1
-CS3321 Introduction to GitHub Assignment Part 1
+# CS3321 GitHub Assignment Part 1
+
+Run the shell script with:
+
+bash repo_script-1.sh
+
+Expected output:
+
+Hello World!
